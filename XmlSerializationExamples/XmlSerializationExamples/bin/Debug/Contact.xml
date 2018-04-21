@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Contact xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.cpandl.com">
+  <FirstName>Jorge</FirstName>
+  <LastName>Perez</LastName>
+  <Addresses>
+    <Address>
+      <Street>1111 nw 136 ave</Street>
+      <ZipCode>11111</ZipCode>
+    </Address>
+    <Address>
+      <Street>222 nw 136 ave</Street>
+      <ZipCode>222222</ZipCode>
+    </Address>
+    <Address>
+      <Street>3333 nw 136 ave</Street>
+      <ZipCode>33333</ZipCode>
+    </Address>
+  </Addresses>
+</Contact>

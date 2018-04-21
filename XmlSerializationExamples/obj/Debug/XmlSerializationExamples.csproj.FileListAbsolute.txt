@@ -1,0 +1,16 @@
+E:\OneDrive\jorgeprg\csharp\examples\XmlSerializationExamples\XmlSerializationExamples\bin\Debug\XmlSerializationExamples.dll
+E:\OneDrive\jorgeprg\csharp\examples\XmlSerializationExamples\XmlSerializationExamples\bin\Debug\XmlSerializationExamples.pdb
+E:\OneDrive\jorgeprg\csharp\examples\XmlSerializationExamples\XmlSerializationExamples\obj\Debug\XmlSerializationExamples.dll
+E:\OneDrive\jorgeprg\csharp\examples\XmlSerializationExamples\XmlSerializationExamples\obj\Debug\XmlSerializationExamples.pdb
+C:\Users\jorge.perez\Downloads\XmlSerializationExamples\XmlSerializationExamples\obj\Debug\XmlSerializationExamples.dll
+C:\Users\jorge.perez\Downloads\XmlSerializationExamples\XmlSerializationExamples\obj\Debug\XmlSerializationExamples.pdb
+C:\Users\jorge.perez\Downloads\XmlSerializationExamples\XmlSerializationExamples\bin\Debug\XmlSerializationExamples.dll
+C:\Users\jorge.perez\Downloads\XmlSerializationExamples\XmlSerializationExamples\bin\Debug\XmlSerializationExamples.pdb
+C:\Users\jorge.perez\Downloads\XmlSerializationExamples\XmlSerializationExamples\bin\Debug\TestFiles\sitemap.xml
+E:\OneDrive\jorgeprg\csharp\examples\XmlSerializationExamples\XmlSerializationExamples\bin\Debug\TestFiles\sitemap.xml
+C:\Users\Jorge.Perez\Downloads\XmlSerializationExamples\XmlSerializationExamples\XmlSerializationExamples\bin\Debug\TestFiles\sitemap.xml
+C:\Users\Jorge.Perez\Downloads\XmlSerializationExamples\XmlSerializationExamples\XmlSerializationExamples\bin\Debug\XmlSerializationExamples.dll
+C:\Users\Jorge.Perez\Downloads\XmlSerializationExamples\XmlSerializationExamples\XmlSerializationExamples\bin\Debug\XmlSerializationExamples.pdb
+C:\Users\Jorge.Perez\Downloads\XmlSerializationExamples\XmlSerializationExamples\XmlSerializationExamples\obj\Debug\XmlSerializationExamples.dll
+C:\Users\Jorge.Perez\Downloads\XmlSerializationExamples\XmlSerializationExamples\XmlSerializationExamples\obj\Debug\XmlSerializationExamples.pdb
+C:\Users\Jorge.Perez\Downloads\XmlSerializationExamples\XmlSerializationExamples\XmlSerializationExamples\obj\Debug\XmlSerializationExamples.csprojResolveAssemblyReference.cache
